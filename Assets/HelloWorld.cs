@@ -7,7 +7,7 @@ public class NewBehaviourScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("성광이 충돌을 냄");
+        Debug.Log("성광이 충돌을");
 
     }
 
