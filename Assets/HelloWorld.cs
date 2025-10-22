@@ -9,9 +9,6 @@ public class NewBehaviourScript : MonoBehaviour
     {
         Debug.Log("성광이 충돌을 냄");
 
-        Debug.Log("한글한글한글 수정수정수정");
-
-        Debug.Log("성광이 충돌을 또 냄");
 
 
 
